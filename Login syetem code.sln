@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Login syetem code", "Login syetem code\Login syetem code.pyproj", "{1E7E1797-C2D5-443F-AEA7-013ADFC27C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7E1797-C2D5-443F-AEA7-013ADFC27C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7E1797-C2D5-443F-AEA7-013ADFC27C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5699E124-5F62-4631-8807-96F648DB6CC4}
+	EndGlobalSection
+EndGlobal
